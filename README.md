@@ -14,7 +14,7 @@
   
 ## Technology Stack
 - **Frontend**: Swift and UIKit for building the iOS application.
-- **Backend/API integration**: Integrated with the RapidAPI: MS Finance API for fetching stock data. Adheres to API best practices and specifications
+- **Backend/API integration**: Integrated with the [RapidAPI: MS Finance API](https://rapidapi.com/apidojo/api/ms-finance) for fetching stock data. Adheres to API best practices and specifications
 - **Database**: CoreData for local data persistence.
 
 ## Project Structure
