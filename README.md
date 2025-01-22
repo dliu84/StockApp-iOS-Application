@@ -1,7 +1,7 @@
 # StockApp - iOS Application
 
 ## Overview
-**StockApp** is an intuitive and powerful application designed for tracking, monitoring, and analyzing stock market trends. It enables users to search for companies, monitor their performance, classify stocks into lists, and rank them based on potential, and mark them as favorites-all while ensuring data persistence for a seamless user experience.
+**StockApp** is an intuitive and powerful application designed for tracking, monitoring, and analyzing stock market trends. It enables users to search for companies, monitor their performance, classify stocks into lists, rank them based on potential, and mark them as favorites-all while ensuring data persistence for a seamless user experience.
 
 ## Key Features
 - **Stock Selection and Monitoring**: Users can select stocks to monitor and classify them into a watch list or active list.
