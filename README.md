@@ -46,3 +46,8 @@
 - **Professor Satiar Rad** (Instructor, Seneca Polytechnic, MAP523, 2024 Fall)  
 - **Di Liu** - [dliu84](https://github.com/dliu84)  
 
+## Citation
+
+If you use this project in your work, please cite it as follows:
+
+> Di Liu (2025). *StockApp-iOS-Application*. GitHub. [https://github.com/dliu84/StockApp-iOS-Application](https://github.com/dliu84/StockApp-iOS-Application)
