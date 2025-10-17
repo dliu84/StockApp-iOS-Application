@@ -28,7 +28,7 @@
 
 ## Installation and Setup
 #### Clone the Repository: Clone this repository to your local machine:
-  `git clone https://github.com/username/StockApp.git`
+  `git clone https://github.com/dliu84/StockApp.git`
 
 ## Build and Run
 #### Open the project in Xcode and select your simulator or device. Build and run the application:
